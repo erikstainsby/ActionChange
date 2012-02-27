@@ -83,10 +83,10 @@
 		03530AAD14F098DC002E9A5E /* ActionChange */ = {
 			isa = PBXGroup;
 			children = (
-				03530AAE14F098DC002E9A5E /* Supporting Files */,
 				03530BF114F09D11002E9A5E /* ActionChange.h */,
 				03530BF214F09D11002E9A5E /* ActionChange.m */,
 				03530C2B14F0A236002E9A5E /* ActionChange.xib */,
+				03530AAE14F098DC002E9A5E /* Supporting Files */,
 			);
 			path = ActionChange;
 			sourceTree = "<group>";
